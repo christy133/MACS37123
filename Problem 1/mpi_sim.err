@@ -1,0 +1,840 @@
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC
+/home/yes220/a1-christy133/MACS37123/Problem 1/sim_numba.py:2: NumbaPendingDeprecationWarning: [1mThe 'pycc' module is pending deprecation. Replacement technology is being developed.
+
+Pending Deprecation in Numba 0.57.0. For more information please see: https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-the-numba-pycc-module[0m
+  from numba.pycc import CC

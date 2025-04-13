@@ -1,14 +1,12 @@
 #!/bin/bash
 
-#SBATCH --job-name=task1a_serial_numba
+#SBATCH --job-name=task1a
 #SBATCH --output=task1a.out
 #SBATCH --error=task1a.err
+#SBATCH --account=macs30123
 #SBATCH --partition=caslake
 #SBATCH --ntasks=1
-#SBATCH --nodes=1
-#SBATCH --account=macs30123
 
-# Load the required Python module
 module load python/anaconda-2022.05
 
-python3 task1a.py
+python ./task1a.py
