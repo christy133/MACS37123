@@ -13,7 +13,7 @@ To improve performance, I moved the nested for-loop into a separate function and
 This speedup shows the effectiveness of ahead-of-time compilation using Numba's `pycc`, which removes the Python interpreter overhead and accelerates the computationally intensive loop.
 
 ### Task 1(b): Runtime vs. Number of Cores
-In this task, I implemented MPI parallelism using `mpi4py`, distributing 1000 simulated lives evenly across 1 to 20 CPU cores. Each process generated its own share of random shocks using a seed based on its rank. I recorded the time taken for each run and plotted runtime against number of cores:
+In this task, I used MPI parallelism using `mpi4py`, distributing 1000 simulated lives evenly across 1 to 20 CPU cores. Each process generated its own share of random shocks using a seed based on its rank. I recorded the time taken for each run and plotted runtime against number of cores:
 
 ![Task 1(b) Plot](task1b_plot.png)
 
