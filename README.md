@@ -1,4 +1,4 @@
-# MACS37123
+# MACS37123 Assignment 1
 
 ## Problem 1: Clocking CPU Parallelism
 ### Task 1(a): Numba Pre-Compilation
@@ -27,3 +27,31 @@ As we can see from the plot, while the runtime decreases significantly as the nu
 4. **Startup Latency**: MPI initialization and task scheduling introduces latency, especially visible at lower runtimes.
 
 Despite this, parallelism via MPI still provided excellent speedup and demonstrated scalable gains up to 20 cores.
+
+## Problem 2： Grid Search for Optimal ρ
+
+### Task 2(a): Parallelized Grid Search
+
+To identify the optimal persistence value ρ that delays the first health failure (`z_t ≤ 0`), I performed a grid search over 200 values of ρ ranging from -0.95 to 0.95. Each ρ value was evaluated by simulating 1,000 health trajectories over 4,160 weeks and computing the average number of weeks until failure.
+
+To parallelize the search:
+- I used `Scatter` to divide the 200 ρ values evenly across 10 MPI ranks (20 per rank).
+- A single matrix of random health shocks (`eps_mat`) was generated on rank 0 and distributed via `Broadcast`.
+- Each rank computed average failure times for its subset of ρ values, and `Gather` was used to collect all results on rank 0.
+
+**Total computation time:** `49.21 seconds`
+
+### Task 2(b): Plot of ρ vs. Avg. Time
+
+The plot below shows how different ρ values affect the average number of periods before health fails. The curve peaks at a slightly negative ρ, suggesting mild mean-reversion improves resilience.
+
+![Task 2(b) Plot](task2b_plot.png)
+
+
+### Task 2(c): Best ρ and Interpretation
+
+The **optimal ρ** found was:
+
+```text
+Best ρ: -0.03342
+Average failure time: 754.25 weeks
