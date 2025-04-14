@@ -12,5 +12,5 @@ module load python/anaconda-2022.05  mpich/3.2.1
 
 for i in {1..20}
 do
-    mpirun -n $i python3 mpi.py >> mpi_times.out
+    mpirun -n $i python3 task1b.py >> mpi_times.out
 done

@@ -16,14 +16,16 @@ sigma = 1.0
 z_0 = mu
 
 lives_per_proc = S // size
+remainder = S % size
+
+if rank < remainder:
+    lives_per_proc += 1
 
 # Start timer
 start = time.time()
 np.random.seed(rank)
 eps_local = np.random.normal(0, sigma, size=(T, lives_per_proc))
-
 z_local = simulate_health(eps_local, rho, mu, z_0)
-
 end = time.time()
 
 if rank == 0:
