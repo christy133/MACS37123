@@ -35,10 +35,12 @@ print(f"Serial execution time: {end - start:.4f} seconds")
 # -------------------------------------
 # Numba
 # -------------------------------------
+
 start_numba = time.time()
 z_mat_numba = sim_numba.simulate_health(eps_mat, rho, mu, z_0)
 end_numba = time.time()
-print(f"Numba version time: {end_numba - start_numba:.4f} seconds")
+time_numba = end_numba - start_numba
+print(f"Numba version time: {time_numba:.4f} seconds")
 # -------------------------------------
-speedup = (end - start) / (end_numba - start_numba)
+speedup = (end - start) / time_numba
 print(f"Speedup from numba: {speedup:.2f}x")

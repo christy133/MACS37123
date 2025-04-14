@@ -1,3 +1,3 @@
-Serial execution time: 3.1486 seconds
-Numba version time: 2.1421 seconds
-Speedup from numba: 1.47x
+Serial execution time: 3.0690 seconds
+Numba version time: 2.1978 seconds
+Speedup from numba: 1.40x

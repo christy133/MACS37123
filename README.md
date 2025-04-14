@@ -55,3 +55,43 @@ The **optimal ρ** found was:
 ```text
 Best ρ: -0.03342
 Average failure time: 754.25 weeks
+
+## Problem 3: GPU NDVI Computation
+
+### Task 3(a) and 3(b): GPU Implementation and Interpretation of the Results
+In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-accelerated version using PyOpenCL. To ensure numerical stability, I added a small epsilon to the denominator to avoid division by zero. The results are:
+
+```text
+CPU time: 0.0121 seconds  
+GPU time: 0.1969 seconds  
+Mean Squared Error (CPU vs. GPU): 0.000000
+
+Although GPU acceleration is generally faster for large-scale computations, in this case, the GPU version was slower potentially because:
+1. **The relatively small image size, making overhead costs (data transfer + kernel launch) dominate.
+2. **Highly optimized NumPy vectorized operations on CPU, which run very efficiently for elementwise math.
+
+With that said the GPU results matched with CPU restuls with a MSE of 0, suggesting the high accuracy of the GPU outupt.
+
+### Task 3(c): GPU performance relative to input size
+
+To evaluate how GPU performance scales relative to CPU with different size, I simulated processing larger batches of Landsat scenes by tiling the original image using `np.tile()`. I tested four sizes: 20×, 50×, 100×, and 150×.
+
+Each tiled image was processed using both the CPU (NumPy) and GPU (PyOpenCL) versions of NDVI, the runtime of each is reported:
+
+**Results:**
+
+| Scale Factor | Image Shape         | CPU Time (s) | GPU Time (s) |
+|--------------|----------------------|--------------|--------------|
+| 20×          | (26,760 × 2,107)     | 0.2262       | 0.0114       |
+| 50×          | (66,900 × 2,107)     | 0.5646       | 0.0026       |
+| 100×         | (133,800 × 2,107)    | 1.1266       | 0.0051       |
+| 150×         | (200,700 × 2,107)    | 1.6896       | 0.0074       |
+
+
+From the table, we can see that as input size increased, the GPU’s performance improved significantly:
+- At small sizes, the CPU was initially competitive due to lower overhead.
+- However, at 50× and beyond, the GPU became dramatically faster, with **speedups of 200x+** in some cases.
+- The GPU's compute time remained nearly constant, showing its ability to scale efficiently with massive parallelism.
+
+These results confirm that **GPU acceleration becomes highly advantageous** for large raster datasets, where data-parallel workloads dominate and overhead splits quickly.
+
