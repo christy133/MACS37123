@@ -69,8 +69,8 @@ Mean Squared Error (CPU vs. GPU): 0.000000
 ```
 
 Although GPU acceleration is generally faster for large-scale computations, in this case, the GPU version was slower potentially because:
-1. **The relatively small image size, making overhead costs (data transfer + kernel launch) dominate.
-2. **Highly optimized NumPy vectorized operations on CPU, which run very efficiently for elementwise math.
+1. The relatively small image size, making overhead costs (data transfer + kernel launch) dominate.
+2. Highly optimized NumPy vectorized operations on CPU, which run very efficiently for elementwise math.
 
 With that said the GPU results matched with CPU restuls with a MSE of 0, suggesting the high accuracy of the GPU outupt.
 

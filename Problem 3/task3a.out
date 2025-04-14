@@ -1,3 +1,3 @@
-CPU time: 0.0121 seconds
-GPU time: 0.1969 seconds
+CPU time: 0.0217 seconds
+GPU time: 0.0295 seconds
 Mean Squared Error between CPU and GPU NDVI: 0.000000
