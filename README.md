@@ -63,8 +63,8 @@ Average failure time: 754.25 weeks
 In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-accelerated version using PyOpenCL. To ensure numerical stability, I added a small epsilon to the denominator to avoid division by zero. The results are:
 
 ```text
-CPU time: 0.0121 seconds  
-GPU time: 0.1969 seconds  
+CPU time: 0.0224 seconds  
+GPU time: 0.1200 seconds  
 Mean Squared Error (CPU vs. GPU): 0.000000
 ```
 
@@ -84,16 +84,15 @@ Each tiled image was processed using both the CPU (NumPy) and GPU (PyOpenCL) ver
 
 | Scale Factor | Image Shape         | CPU Time (s) | GPU Time (s) |
 |--------------|----------------------|--------------|--------------|
-| 20×          | (26,760 × 2,107)     | 0.2262       | 0.0114       |
-| 50×          | (66,900 × 2,107)     | 0.5646       | 0.0026       |
-| 100×         | (133,800 × 2,107)    | 1.1266       | 0.0051       |
-| 150×         | (200,700 × 2,107)    | 1.6896       | 0.0074       |
+| 20×          | (1338, 42140)        | 0.4102       | 0.1998       |
+| 50×          | (1338, 105350)       | 1.0291       | 0.4867       |
+| 100×         | (1338, 210700)       | 2.0518       | 0.9773       |
+| 150×         | (1338, 316050)       | 3.0887       | 1.6202       |
 
 
 From the table, we can see that as input size increased, the GPU’s performance improved significantly:
 - At small sizes, the CPU was initially competitive due to lower overhead.
-- However, at 50× and beyond, the GPU became dramatically faster, with **speedups of 200x+** in some cases.
-- The GPU's compute time remained nearly constant, showing its ability to scale efficiently with massive parallelism.
+- However, with the increase of input size, the GPU became faster, with increasing time difference with CPU-based implementations
 
 These results confirm that **GPU acceleration becomes highly advantageous** for large raster datasets, where data-parallel workloads dominate and overhead splits quickly.
 
