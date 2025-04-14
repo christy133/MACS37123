@@ -55,6 +55,7 @@ The **optimal ρ** found was:
 ```text
 Best ρ: -0.03342
 Average failure time: 754.25 weeks
+```
 
 ## Problem 3: GPU NDVI Computation
 
@@ -65,6 +66,7 @@ In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-acceler
 CPU time: 0.0121 seconds  
 GPU time: 0.1969 seconds  
 Mean Squared Error (CPU vs. GPU): 0.000000
+```
 
 Although GPU acceleration is generally faster for large-scale computations, in this case, the GPU version was slower potentially because:
 1. **The relatively small image size, making overhead costs (data transfer + kernel launch) dominate.
