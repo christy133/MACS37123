@@ -39,7 +39,7 @@ To parallelize the search:
 - A single matrix of random health shocks (`eps_mat`) was generated on rank 0 and distributed via `Broadcast`.
 - Each rank computed average failure times for its subset of ρ values, and `Gather` was used to collect all results on rank 0.
 
-**Total computation time:** `49.21 seconds`
+**Total computation time:** `49.21 seconds` for running the whole thing. 
 
 ### Task 2(b): Plot of ρ vs. Avg. Time
 
@@ -64,21 +64,18 @@ In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-acceler
 
 ```text
 CPU time: 0.0224 seconds  
-GPU time: 0.1200 seconds  
-Mean Squared Error (CPU vs. GPU): 0.000000
+GPU time: 0.0295 seconds  
 ```
 
 Although GPU acceleration is generally faster for large-scale computations, in this case, the GPU version was slower potentially because:
 1. The relatively small image size, making overhead costs (data transfer + kernel launch) dominate.
 2. Highly optimized NumPy vectorized operations on CPU, which run very efficiently for elementwise math.
 
-With that said the GPU results matched with CPU restuls with a MSE of 0, suggesting the high accuracy of the GPU outupt.
-
 ### Task 3(c): GPU performance relative to input size
 
 To evaluate how GPU performance scales relative to CPU with different size, I simulated processing larger batches of Landsat scenes by tiling the original image using `np.tile()`. I tested four sizes: 20×, 50×, 100×, and 150×.
 
-Each tiled image was processed using both the CPU (NumPy) and GPU (PyOpenCL) versions of NDVI, the runtime of each is reported:
+Each tiled image was processed using both the CPU (NumPy) and GPU (PyOpenCL) versions of NDVI, the runtime of each is:
 
 **Results:**
 
