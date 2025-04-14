@@ -7,7 +7,6 @@ cc = CC("sim2")
 def simulate_failure_times(eps_mat, rho, mu, z0):
     T, S = eps_mat.shape
     first_fail = np.zeros(S)
-
     for s in range(S):
         z_tm1 = z0
         failed = False

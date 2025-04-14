@@ -35,7 +35,6 @@ for rho in rho_local:
     fail_times = sim2.simulate_failure_times(eps_mat, rho, mu, z0)
     avg_time = np.mean(fail_times)
     results_local.append((rho, avg_time))
-
 end = time.time()
 
 results_all = comm.gather(results_local, root=0)
