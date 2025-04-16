@@ -39,7 +39,7 @@ To parallelize the search:
 - A single matrix of random health shocks (`eps_mat`) was generated on rank 0 and distributed via `Broadcast`.
 - Each rank computed average failure times for its subset of ρ values, and `Gather` was used to collect all results on rank 0.
 
-**Total computation time:** `49.21 seconds` for running the whole thing. 
+**Total computation time:** 0.097, since we broke out of the loop when failure occured, the running time was trivial. 
 
 ### Task 2(b): Plot of ρ vs. Avg. Time
 
@@ -63,8 +63,8 @@ Average failure time: 754.25 weeks
 In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-accelerated version using PyOpenCL. To ensure numerical stability. The results are:
 
 ```text
-CPU time: 0.0224 seconds  
-GPU time: 0.0295 seconds  
+CPU time: 0.0190 seconds  
+GPU time: 0.1505 seconds  
 ```
 
 Although GPU acceleration is generally faster for large-scale computations, in this case, the GPU version was slower potentially because:
