@@ -6,9 +6,9 @@ To improve performance, I moved the nested for-loop into a separate function and
 
 **Results:**
 
-- Serial execution time: 3.1207 seconds  
-- Numba version time: 0.0337 seconds  
-- **Speedup from Numba:** 92.68x
+- Serial execution time: 3.1552 seconds  
+- Numba version time: 0.0323 seconds  
+- **Speedup from Numba:** 97.83x
 
 This speedup shows the effectiveness of ahead-of-time compilation using Numba's `pycc`, which removes the Python interpreter overhead and accelerates the computationally intensive loop.
 
@@ -23,8 +23,8 @@ As we can see from the plot, while the runtime decreases significantly as the nu
 
 1. **Fixed Serial Overhead**: There's always some part of the code that cannot be parallelized, including initialization and final gathering.
 2. **Communication Overhead**: As the number of processes increases, communication between cores (even minimal) becomes a larger portion of the total time.
-3. **Diminishing Workload Per Core**: When splitting 1000 simulations across 20 cores, each core only runs 50 simulations — which may not fully utilize the core’s compute capacity due to under-parallelization.
-4. **Startup Latency**: MPI initialization and task scheduling introduces latency, especially visible at lower runtimes.
+3. **Diminishing Workload Per Core**: When splitting 1000 simulations across 20 cores, each core only runs 50 simulations, or less, which may not fully use the core’s compute capacity due to under-parallelization.
+4. **Startup Latency**: MPI initialization and task scheduling introduces latency, especially at lower runtimes.
 
 Despite this, parallelism via MPI still provided excellent speedup and demonstrated scalable gains up to 20 cores.
 
@@ -60,7 +60,7 @@ Average failure time: 754.25 weeks
 ## Problem 3: GPU NDVI Computation
 
 ### Task 3(a) and 3(b): GPU Implementation and Interpretation of the Results
-In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-accelerated version using PyOpenCL. To ensure numerical stability, I added a small epsilon to the denominator to avoid division by zero. The results are:
+In this task, I computed the NDVI using both a CPU-based NumPy and a GPU-accelerated version using PyOpenCL. To ensure numerical stability. The results are:
 
 ```text
 CPU time: 0.0224 seconds  
@@ -89,7 +89,7 @@ Each tiled image was processed using both the CPU (NumPy) and GPU (PyOpenCL) ver
 
 From the table, we can see that as input size increased, the GPU’s performance improved significantly:
 - At small sizes, the CPU was initially competitive due to lower overhead.
-- However, with the increase of input size, the GPU became faster, with increasing time difference with CPU-based implementations
+- However, with the increase of input size, the GPU became faster, with increasing time differences with CPU-based implementations
 
-These results confirm that **GPU acceleration becomes highly advantageous** for large raster datasets, where data-parallel workloads dominate and overhead splits quickly.
+These results confirm that GPU acceleration becomes highly advantageous for **large raster datasets**, where data-parallel workloads dominate and overhead splits quickly.
 
