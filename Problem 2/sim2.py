@@ -9,14 +9,13 @@ def simulate_failure_times(eps_mat, rho, mu, z0):
     first_fail = np.zeros(S)
     for s in range(S):
         z_tm1 = z0
-        failed = False
         for t in range(T):
             z_t = rho * z_tm1 + (1 - rho) * mu + eps_mat[t, s]
-            if not failed and z_t <= 0:
+            if z_t <= 0:
                 first_fail[s] = t
-                failed = True
+                break
             z_tm1 = z_t
-        if not failed:
+        else:
             first_fail[s] = T
     return first_fail
 

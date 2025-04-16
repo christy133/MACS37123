@@ -35,9 +35,9 @@ for rho in rho_local:
     fail_times = sim2.simulate_failure_times(eps_mat, rho, mu, z0)
     avg_time = np.mean(fail_times)
     results_local.append((rho, avg_time))
-end = time.time()
 
 results_all = comm.gather(results_local, root=0)
+end = time.time()
 
 if rank == 0:
     flat_results = [item for sublist in results_all for item in sublist]
@@ -47,4 +47,4 @@ if rank == 0:
     for rho, t in sorted(flat_results):
         print(f"{rho:.5f}, {t:.2f}")
     print(f"\nBest rho: {best_rho:.5f} (avg failure time {best_time:.2f})")
-    print(f"\nTotal computation time: {end - start:.2f} seconds")
+    print(f"\nTotal computation time: {end - start:.4f} seconds")
